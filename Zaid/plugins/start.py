@@ -3,7 +3,7 @@ from Config import Config
 from telethon import events, Button
 
 PM_START_TEXT = """
-ʜᴇʏᴀ! {}
+ʜhshshsshsh🙈🤔😑🤔😑😑🤔ᴇʏᴀ! {}
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ✘ **ɪ'ᴍ ᴀ ꜱɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜꜱɪᴄ ᴀɴᴅ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ**.
 ‣ **ɪ ᴄᴀɴ ᴘʟᴀʏ ꜱᴏɴɢꜱ ɪɴ ʏᴏᴜʀ ᴠᴏɪᴄᴇ**.
